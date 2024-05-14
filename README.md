@@ -225,4 +225,4 @@ Insights on the 25 most demanded skills for data analysis:
 
 # Conclusions
 
-This project enhanced my SQL skills and I gained valuable insights into the data analyst job market. I feel better positioned as a job applicant since I know which skills are valued in the data analysis industry. The skills I learned will allow me to craft my skill set toward a higher paying career path. 
+This project enhanced my SQL skills and I gained valuable insights into the data anaylst job market. I am better positioned as a data analyst since I know which skills are most lucrative and which companies are posting the most jobs. The skills I've developed will allow me to acquire a higher paying job in the area I'm most interested.
