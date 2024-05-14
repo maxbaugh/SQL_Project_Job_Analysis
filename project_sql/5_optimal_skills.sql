@@ -37,7 +37,7 @@ FROM skills_demand
 WHERE demand_count > 10
 ORDER BY avg_salary DESC,
     demand_count DESC
-LIMIT 25 -- rewritten concisely 
+LIMIT 25 -- rewritten concisely below
 SELECT skills_dim.skill_id,
     skills_dim.skills,
     COUNT(skills_job_dim.job_id) AS demand_count,
